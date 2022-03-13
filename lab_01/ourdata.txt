@@ -1,0 +1,8 @@
+name|age|city
+ali|20|bwp
+jameel|21|multan
+aslam|19|lahore
+zubaida|20|RYK
+Jalal|18|bwp
+mehran|20|bwn
+junaid|21|khairpur
