@@ -1,0 +1,5 @@
+name	age	city
+ali	20	bwp
+jameel	21	multan
+aslam	19	lahore
+commando	31	khairpur

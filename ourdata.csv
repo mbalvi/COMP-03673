@@ -1,0 +1,28 @@
+,rno,name,age,cgpa,City,income,gender,stipend,province,address
+0,16cs01,hooria tahir,22,2.95,bahawalpur,22000,1,80000,Punjab,"bahawalpur,Punjab"
+1,16CS02,sammrah hanif,22,3.64,bahawalpur,0,1,13000,Punjab,"bahawalpur,Punjab"
+2,16CS03,ayesha malik,22,2.81,multan,100000,1,0,Punjab,"multan,Punjab"
+3,16CS04,areeba fatima,22,3.55,bahawalpur,10000,1,80000,Punjab,"bahawalpur,Punjab"
+4,16CS05,ayesha younas,22,3.51,bahawalpur,30000,1,36000,Punjab,"bahawalpur,Punjab"
+5,16CS06,amna qamar,21,3.55,bahawalpur,15000,1,80000,Punjab,"bahawalpur,Punjab"
+6,16CS07,hafsa akram,18,0.0,,0,1,0,Punjab,
+7,16CS08,mahnoor baloch,21,2.91,Bahawalpur,0,1,0,Punjab,"Bahawalpur,Punjab"
+8,16CS09,muhammad shafiq,21,2.53,lodhran,0,2,0,Punjab,"lodhran,Punjab"
+9,16CS10,muhammad waqar aslam,22,2.62,multan,0,2,0,Punjab,"multan,Punjab"
+10,16CS12,muhammad bilal anjum,22,0.0,,0,2,0,Punjab,
+11,16CS13,m. usman arshad,22,2.96,bahawalpur,27000,2,0,Punjab,"bahawalpur,Punjab"
+12,16CS14,m. mudassar riaz,22,2.78,,0,2,0,Punjab,
+13,16CS15,muhammad saqib,22,2.66,,0,2,0,Punjab,
+14,16CS16,m.  farooq subhani,21,3.26,,RYK,2,0,Punjab,
+15,16CS17,arslan faisal,23,0.0,,0,2,0,Punjab,
+16,16CS18,moazzam ali,21,2.51,Bahawalpur,0,2,0,Punjab,"Bahawalpur,Punjab"
+17,16CS19,muhammad zafar,22,2.83,,0,2,0,Punjab,
+18,16CS20,hafiz muhammad hamza,21,3.05,bahawalpur,0,2,0,Punjab,"bahawalpur,Punjab"
+19,16CS21,muhammad shan azam,23,0.0,chishtian,0,2,0,Punjab,"chishtian,Punjab"
+20,16CS22,muhammad fahad ashraf,20,0.0,bahawalpur,0,2,0,Punjab,"bahawalpur,Punjab"
+21,16CS23,muhammad bilal rafique,22,2.64,haroonabad,0,2,0,Punjab,"haroonabad,Punjab"
+22,16CS24,mansoor bin yousuf,22,3.03,bahawalpur,0,2,0,Punjab,"bahawalpur,Punjab"
+23,16CS26,asad raza,20,0.0,,Multan,2,0,Punjab,
+24,16CS28,mubashir hussain,23,2.75,bahawalpur,0,2,0,Punjab,"bahawalpur,Punjab"
+25,16CS29,m. junaid tahir,24,0.0,,0,2,0,Punjab,
+26,16-15cs19,m. salman delawer,23,2.02,chishtian,0,2,0,Punjab,"chishtian,Punjab"
