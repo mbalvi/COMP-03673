@@ -1,5 +1,5 @@
 # COMP-03673
-Data Mining Labs
+Data Mining Labs \n
 It will contain
 * lab No. 1
 * lab No. 2
